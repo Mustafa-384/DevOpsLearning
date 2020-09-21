@@ -7,3 +7,5 @@ Yellow
 Green
 Blue
 These are the colors of my Rainbow has 7 colors
+
+these are in Paint
